@@ -1809,6 +1809,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
 #EXTINF:-1 tvg-id="dsports" tvg-name="DSports" tvg-logo="" group-title="Deportes",DSports
 https://99.envivosenhd.beer/dsportscl/mono.m3u8?token=9767108943f47f0dbe5a21c8036a282ceb967a4d-98-1794594887-1794576887
+#EXTINF:-1 tvg-id="fox2usa" tvg-name="Fox 2 USA" tvg-logo="" group-title="Deportes",Fox 2 USA
+https://99.envivosenhd.beer/fox2usa/mono.m3u8?token=55b424d08b574b47f244af428d3adc1325184388-5-1794597904-1794579904
+#EXTINF:-1 tvg-id="foxsoccerplus" tvg-name="Fox Plus" tvg-logo="" group-title="Deportes",Fox Plus
+https://99.envivosenhd.beer/foxsoccerplus/mono.m3u8?token=871b68a87f9cda0860b81aabd5730eeeffe85f80-70-1794598008-1794580008
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN 3" tvg-logo="" group-title="Deportes",TSN 3
+https://99.envivosenhd.beer/tsn3/mono.m3u8?token=7c178ab36afa627094ab41f81f8f75d5f1752fb2-2a-1794598100-1794580100
 #EXTINF:-1 tvg-id="mligacampeones" tvg-name="Liga de Campeones" tvg-logo="" group-title="Deportes",Liga de Campeones
 https://99.envivosenhd.beer/mligacampeones/mono.m3u8?token=ad8fbec0eab1029be9ea1eaeabd021dd9a8907df-e5-1794595640-1794577640
 #EXTINF:-1 tvg-id="tyc" tvg-name="TyC Sports" tvg-logo="" group-title="Deportes",TyC Sports
