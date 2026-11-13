@@ -1807,8 +1807,13 @@ https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6R9LNbwj/world-billiards-tv-mx.png" group-title="Deportes", World Billiards TV (EE.UU.) [EN]
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
-#EXTINF:-1 tvg-id="dsports" tvg-name="DSports" tvg-logo="" group-title="Deportes",DSports
-https://99.envivosenhd.beer/dsportscl/mono.m3u8?token=9767108943f47f0dbe5a21c8036a282ceb967a4d-98-1794594887-1794576887
+#EXTINF:-1 tvg-id="dsports" tvg-name="DSports" tvg-logo="" group-title="Deportes",
+#EXTINF:-1 xui-id="1474" tvg-id="DTV1610" tvg-name="DIRECTV SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUM4VI6FoNp_Nq__qhl00HRXdXUufWK-SKeL57brTWw&s=10" group-title="TV-Deportes",DIRECTV SPORTS
+http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMS-byxUSKjuSWuq7RAR-7rM/ts
+#EXTINF:-1 xui-id="1475" tvg-id="SPO219" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWOLMJV5SAXjdxEtH32sfz84PvDuFBRsGZe-hsKuaBew&s=10" group-title="TV-Deportes",DIRECTV SPORTS 2
+http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMc3d8kRyC_ddZs3HaLK839Q/ts
+#EXTINF:-1 xui-id="7160" tvg-id="SPOPLH" tvg-name="DIRECTV SPORTS +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP81mpAWxsfpBjKUR35jt9_zMBuojm98AQoEEXWOotA&s=10" group-title="TV-Deportes",DIRECTV SPORTS +
+http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQroGw55eTiQTNR5dybuUzA/ts
 #EXTINF:-1 tvg-id="fox2usa" tvg-name="Fox 2 USA" tvg-logo="" group-title="Deportes",Fox 2 USA
 https://99.envivosenhd.beer/fox2usa/mono.m3u8?token=55b424d08b574b47f244af428d3adc1325184388-5-1794597904-1794579904
 #EXTINF:-1 tvg-id="foxsoccerplus" tvg-name="Fox Plus" tvg-logo="" group-title="Deportes",Fox Plus
