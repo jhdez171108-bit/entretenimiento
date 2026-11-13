@@ -1809,6 +1809,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
 #EXTINF:-1 tvg-id="dsports" tvg-name="DSports" tvg-logo="" group-title="Deportes",DSports
 https://99.envivosenhd.beer/dsportscl/mono.m3u8?token=9767108943f47f0dbe5a21c8036a282ceb967a4d-98-1794594887-1794576887
+#EXTINF:-1 tvg-id="mligacampeones" tvg-name="Liga de Campeones" tvg-logo="" group-title="Deportes",Liga de Campeones
+https://99.envivosenhd.beer/mligacampeones/mono.m3u8?token=ad8fbec0eab1029be9ea1eaeabd021dd9a8907df-e5-1794595640-1794577640
+#EXTINF:-1 tvg-id="tyc" tvg-name="TyC Sports" tvg-logo="" group-title="Deportes",TyC Sports
+https://99.envivosenhd.beer/tyc/mono.m3u8?token=c4425a3bc53ebb234f30c5596bb85dcb5dede8f3-84-1794595765-1794577765
+#EXTINF:-1 tvg-id="hyper1" tvg-name="Hyper 1" tvg-logo="" group-title="Deportes",Hyper 1
+https://99.envivosenhd.beer/hyper1/mono.m3u8?token=62b0385b8da57a766e4cd01551fac31de80d1703-a2-1794595838-1794577838
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX + PREMIER LIGA
 http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX Sport Premiumm
